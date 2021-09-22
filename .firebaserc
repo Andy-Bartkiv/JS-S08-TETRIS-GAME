@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "tetris": "simple-tetris-game"
+  },
+  "targets": {}
+}
